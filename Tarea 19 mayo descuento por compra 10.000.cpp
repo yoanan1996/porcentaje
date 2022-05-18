@@ -1,6 +1,6 @@
+//Programa para hacer porcentaje con la cantidad 10,000
+
 #include <iostream>
-
-
 using namespace std;
 
 void funcion(float n, float *por){
